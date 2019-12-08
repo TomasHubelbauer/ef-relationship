@@ -1,7 +1,5 @@
 # EF Core Principal<->Dependant IDs
 
-- [ ] Fix the repository name (on GitHub, generated namespaces etc.)
-
 This repository explores how EF Core handles principal-dependent relationships
 and the navigation properties related to those by convention.
 
@@ -125,3 +123,7 @@ correct IDs:
 Whoops! It doesn't. I asked https://github.com/aspnet/EntityFrameworkCore/issues/14704.
 
 I seem to have been mistaken remembering this working.
+
+## To-Do
+
+### Fix the misspelling of "dependant" in the repo name and the source code
